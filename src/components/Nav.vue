@@ -3,7 +3,7 @@
     <ul>
       <a href="/" target="_blank">Home</a>
       <a href="/">Api</a>
-      <a href="/">Footer</a>
+      <a href="#footer">Footer</a>
     </ul>
   </nav>
 </template>
