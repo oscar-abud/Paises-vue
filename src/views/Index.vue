@@ -23,6 +23,6 @@ import Footer from '../components/Footer.vue'
 
 main {
   background-color: var(--gray-color);
-  color: var(--none-color);
+  color: var(--white-color);
 }
 </style>
