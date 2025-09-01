@@ -1,14 +1,14 @@
 <script setup>
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue'
+import Paises from '../components/Paises.vue'
 </script>
 
 <template>
   <div class="container">
     <Header />
     <main>
-      <h1>Hola Mundo</h1>
-      <p>Hola soy un parrafo</p>
+      <Paises />
     </main>
     <Footer />
   </div>
@@ -24,5 +24,6 @@ import Footer from '../components/Footer.vue'
 main {
   background-color: var(--gray-color);
   color: var(--white-color);
+  padding: 20px 0;
 }
 </style>
