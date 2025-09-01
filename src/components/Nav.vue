@@ -1,0 +1,9 @@
+<template>
+  <nav>
+    <ul>
+      <li>Home</li>
+      <li>Api</li>
+      <li>Footer</li>
+    </ul>
+  </nav>
+</template>
